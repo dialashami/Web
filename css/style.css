@@ -1,0 +1,121 @@
+*{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+
+}
+body{
+    font-family: sans-serif;
+    overflow: hidden;
+    user-select: none;
+    background-image: linear-gradient(to right,#f08080,#f4978e,#f8ad9d);
+}
+nav .logo{
+    color: white;
+    font-size: 33px;
+    font-weight: bold;
+    line-height: 70px;
+    padding-left: 110px;
+}
+nav{
+    height: 110px;
+    background-image: linear-gradient(to right,#f08080,#f4978e,#f8ad9d);
+    box-shadow: 0 3px 15px rgba(0,0,0,.4);
+}
+nav ul{
+    float: right;
+    margin-right: 30px;
+}
+nav ul li{
+    display: inline-block;
+}
+nav ul li a{
+    color: white;
+    display: block;
+    padding: 0 15px;
+    line-height: 70px;
+    font-size: 20px;
+    background:transparent;
+    transition: .5s;
+    alignment: center;
+    vertical-align: top;
+}
+nav ul li a:hover,
+nav ul li a.active{
+    color: #ffffff;
+}
+nav ul ul{
+    position: absolute;
+    top: 85px;
+
+    opacity: 0;
+    visibility: hidden;
+    background-image: linear-gradient(to bottom,#f08080,#f4978e,#f8ad9d);
+
+}
+nav ul li:hover > ul{
+    top: 40px;
+    opacity: 1;
+    visibility: visible;
+    transition: .5s linear;
+}
+nav ul ul li{
+    width: 150px;
+    margin-left: 0;
+    display: flex;
+    position: relative;
+    border: 1px solid #042331;
+    /*border-top: none;*/
+}
+nav ul ul li a{
+    line-height: 50px;
+}
+nav ul ul li a:hover{
+    line-height: 50px;
+     color: purple;
+}
+nav ul ul ul{
+    border-top: none;
+}
+nav ul ul ul li{
+    position: relative;
+    top: -70px;
+    left: 150px;
+}
+nav ul ul li a i{
+    margin-left: 0px;
+    border: #1b3c5b;
+}
+
+
+.sliders{
+    display: flex;
+    align-items:center;
+    margin-top: 0;
+    justify-content: center;
+    min-height: 80vh;
+    padding-top: 0;
+    padding-right:50px ;
+    padding-left: 20px;
+    background-image: linear-gradient(to right,#f08080,#f4978e,#f8ad9d);
+    width: 1500px;
+    height: 110%;
+}
+.content{
+    height: 100%;
+    width: 1000px;
+    box-shadow: 1px 1px 15px rgba(0,0,0,0.4);
+}
+.content .images{
+    height: 100%;
+    width: 1000px;
+}
+.images img{
+    height: 100%;
+    width: 100%;
+}
+.images video{
+    height: 500px;
+    width: 100%;
+}

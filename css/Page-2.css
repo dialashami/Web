@@ -1,0 +1,400 @@
+.u-section-1 {
+  background-image: linear-gradient(#db545a, #478ac9);
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 1592px;
+}
+
+.u-section-1 .u-slider-1 {
+  min-height: 587px;
+  height: auto;
+  margin: 50px 0 0 auto;
+}
+
+.u-section-1 .u-carousel-indicators-1 {
+  position: absolute;
+  bottom: 10px;
+}
+
+.u-section-1 .u-image-1 {
+  background-image: url("../../../../Users/Ola/Documents/Nicepage Templates/Reservationpage/images/intro.jpg");
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding: 0 50px 30px;
+}
+
+.u-section-1 .u-image-2 {
+  background-image: url("../../../../Users/Ola/Documents/Nicepage Templates/Reservationpage/images/Beauty-products-on-a-pink-background-2.jpg");
+}
+
+.u-section-1 .u-container-layout-2 {
+  padding: 30px 50px;
+}
+
+.u-section-1 .u-image-3 {
+  background-image: url("../../../../Users/Ola/Documents/Nicepage Templates/Reservationpage/images/nailgel.jpg");
+}
+
+.u-section-1 .u-container-layout-3 {
+  padding: 30px 50px;
+}
+
+.u-section-1 .u-image-4 {
+  background-image: url("../../../../Users/Ola/Documents/Nicepage Templates/Reservationpage/images/haircare.png");
+}
+
+.u-section-1 .u-container-layout-4 {
+  padding: 30px 50px;
+}
+
+.u-section-1 .u-image-5 {
+  background-image: url("../../../../Users/Ola/Documents/Nicepage Templates/Reservationpage/images/hairdressing.jpg");
+}
+
+.u-section-1 .u-container-layout-5 {
+  padding: 30px 50px;
+}
+
+.u-section-1 .u-image-6 {
+  background-image: url("../../../../Users/Ola/Documents/Nicepage Templates/Reservationpage/images/hairdressing1.jpg");
+}
+
+.u-section-1 .u-container-layout-6 {
+  padding: 30px 50px;
+}
+
+.u-section-1 .u-carousel-control-1 {
+  width: 50px;
+  height: 50px;
+}
+
+.u-section-1 .u-carousel-control-2 {
+  width: 50px;
+  height: 50px;
+}
+
+.u-section-1 .u-layout-wrap-1 {
+  margin: 40px 0 40px auto;
+}
+
+.u-section-1 .u-image-7 {
+  min-height: 591px;
+  background-image: url("../../../../Users/Ola/Documents/Nicepage Templates/Reservationpage/images/woman2.png");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-container-layout-7 {
+  padding: 30px;
+}
+
+.u-section-1 .u-image-8 {
+  min-height: 295px;
+  background-image: url("../../../../Users/Ola/Documents/Nicepage Templates/Reservationpage/images/woman.png");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-container-layout-8 {
+  padding: 30px;
+}
+
+.u-section-1 .u-image-9 {
+  min-height: 886px;
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url("../../../../Users/Ola/Documents/Nicepage Templates/Reservationpage/images/beautiful.jpg");
+}
+
+.u-section-1 .u-container-layout-9 {
+  padding: 30px 60px;
+}
+
+.u-section-1 .u-text-1 {
+  margin: 0 52px 0 -37px;
+}
+
+.u-section-1 .u-btn-1 {
+  border-style: solid;
+  font-size: 1.375rem;
+  background-image: none;
+  margin: 157px 52px 0 auto;
+  padding: 15px 49px 16px 48px;
+}
+
+.u-section-1 .u-text-2 {
+  margin: -63px auto 0 40px;
+}
+
+.u-section-1 .u-btn-2 {
+  border-style: solid;
+  font-size: 1.375rem;
+  margin: 101px 51px 0 auto;
+  padding: 15px 49px 16px 48px;
+}
+
+.u-section-1 .u-text-3 {
+  margin: -63px auto 0 40px;
+}
+
+.u-section-1 .u-btn-3 {
+  border-style: none none solid;
+  animation-duration: 1000ms;
+  font-size: 2.25rem;
+  font-weight: 700;
+  margin: 226px -41px 0 auto;
+  padding: 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 1437px;
+  }
+
+  .u-section-1 .u-slider-1 {
+    margin-top: 92px;
+    margin-right: initial;
+    margin-left: initial;
+  }
+
+  .u-section-1 .u-layout-wrap-1 {
+    margin-top: 39px;
+    margin-bottom: 0;
+    margin-right: initial;
+    margin-left: initial;
+  }
+
+  .u-section-1 .u-image-7 {
+    min-height: 487px;
+  }
+
+  .u-section-1 .u-image-8 {
+    min-height: 243px;
+  }
+
+  .u-section-1 .u-image-9 {
+    background-position: 50% 50%;
+    min-height: 731px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-right: 0;
+    margin-left: -27px;
+    font-size: 3.75rem;
+  }
+
+  .u-section-1 .u-btn-1 {
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-left: 31px;
+  }
+
+  .u-section-1 .u-btn-2 {
+    margin-top: 86px;
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-top: -34px;
+    margin-left: 31px;
+  }
+
+  .u-section-1 .u-btn-3 {
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 2944px;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+
+  .u-section-1 .u-container-layout-2 {
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+
+  .u-section-1 .u-container-layout-3 {
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+
+  .u-section-1 .u-container-layout-4 {
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+
+  .u-section-1 .u-container-layout-5 {
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+
+  .u-section-1 .u-container-layout-6 {
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+
+  .u-section-1 .u-layout-wrap-1 {
+    margin-top: -1343px;
+    margin-bottom: 60px;
+    margin-right: initial;
+    margin-left: initial;
+  }
+
+  .u-section-1 .u-image-7 {
+    min-height: 746px;
+  }
+
+  .u-section-1 .u-image-8 {
+    min-height: 372px;
+  }
+
+  .u-section-1 .u-image-9 {
+    min-height: 1120px;
+  }
+
+  .u-section-1 .u-container-layout-9 {
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-left: -52px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-left: 59px;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-left: 59px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 2385px;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-container-layout-2 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-container-layout-3 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-container-layout-4 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-container-layout-5 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-container-layout-6 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-layout-wrap-1 {
+    margin-top: -800px;
+    margin-right: initial;
+    margin-left: initial;
+  }
+
+  .u-section-1 .u-image-7 {
+    min-height: 560px;
+  }
+
+  .u-section-1 .u-container-layout-7 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-image-8 {
+    min-height: 279px;
+  }
+
+  .u-section-1 .u-container-layout-8 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-image-9 {
+    min-height: 840px;
+  }
+
+  .u-section-1 .u-container-layout-9 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-left: -41px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-left: 46px;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-left: 46px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 1764px;
+  }
+
+  .u-section-1 .u-slider-1 {
+    margin-top: 35px;
+    margin-right: initial;
+    margin-left: initial;
+  }
+
+  .u-section-1 .u-layout-wrap-1 {
+    margin-top: -586px;
+    margin-right: initial;
+    margin-left: initial;
+  }
+
+  .u-section-1 .u-image-7 {
+    min-height: 353px;
+  }
+
+  .u-section-1 .u-image-8 {
+    min-height: 176px;
+  }
+
+  .u-section-1 .u-image-9 {
+    min-height: 529px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-left: -25px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-left: 28px;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-left: 28px;
+  }
+}
